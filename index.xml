@@ -33,6 +33,22 @@
     </item>
     
     <item>
+      <title>Пост по прошедшей неделе (25.04.24 - 31.04.24)</title>
+      <link>https://example.com/post/post_3/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post_3/</guid>
+      <description>&lt;h2 id=&#34;рабочая-неделя&#34;&gt;Рабочая неделя&lt;/h2&gt;
+&lt;p&gt;Эта неделя была очень сложной и насыщенной! У меня было 4 контрольных работы. И в целом, написала я их хорошо. Также были соревнования по баскетболу, но к сожалению нам не удалось одержать победу.&lt;/p&gt;
+&lt;p&gt;emoji: 📚&lt;/p&gt;
+&lt;h2 id=&#34;выходные&#34;&gt;Выходные&lt;/h2&gt;
+&lt;p&gt;Выходные я как обычно провела дома. Много училась и смотрела фильмы.&lt;/p&gt;
+&lt;h2 id=&#34;планы-на-следующую-неделю&#34;&gt;Планы на следующую неделю&lt;/h2&gt;
+&lt;p&gt;Учёба, учёба и еще раз учёба и еще погулять)&lt;/p&gt;
+&lt;p&gt;emoji: ✨&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Пост по прошедшей неделе (4.03.24 - 10.03.24)</title>
       <link>https://example.com/post/post_1/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
@@ -66,10 +82,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;С праздником&#34; srcset=&#34;
-               /post/post_1/8_%D0%BC%D0%B0%D1%80%D1%82%D0%B0_huc0081c0dcc427b83c12f0443130516fc_124095_9183e1bd1f9cea859493e3389b3c63c0.webp 400w,
-               /post/post_1/8_%D0%BC%D0%B0%D1%80%D1%82%D0%B0_huc0081c0dcc427b83c12f0443130516fc_124095_2b6efb870c4e2c575257e0a7f34fd043.webp 760w,
+               /post/post_1/8_%D0%BC%D0%B0%D1%80%D1%82%D0%B0_huc0081c0dcc427b83c12f0443130516fc_124095_1868bab9e9555027fa02cc18b747ff41.webp 400w,
+               /post/post_1/8_%D0%BC%D0%B0%D1%80%D1%82%D0%B0_huc0081c0dcc427b83c12f0443130516fc_124095_60c588f75fd12d36cee6a58cb77e0101.webp 760w,
                /post/post_1/8_%D0%BC%D0%B0%D1%80%D1%82%D0%B0_huc0081c0dcc427b83c12f0443130516fc_124095_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/post_1/8_%D0%BC%D0%B0%D1%80%D1%82%D0%B0_huc0081c0dcc427b83c12f0443130516fc_124095_9183e1bd1f9cea859493e3389b3c63c0.webp&#34;
+               src=&#34;https://example.com/post/post_1/8_%D0%BC%D0%B0%D1%80%D1%82%D0%B0_huc0081c0dcc427b83c12f0443130516fc_124095_1868bab9e9555027fa02cc18b747ff41.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -108,10 +124,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Локальный контроль версий&#34; srcset=&#34;
-               /post/post_2/001_hu0552b6ebb326ff0a2aa229c270b9ae15_43024_6118e6696d88e0564a187563f569ccd2.webp 400w,
-               /post/post_2/001_hu0552b6ebb326ff0a2aa229c270b9ae15_43024_19861dc6731c90797eef913a731c4091.webp 760w,
+               /post/post_2/001_hu0552b6ebb326ff0a2aa229c270b9ae15_43024_fb841789b851fc718ee6fba2f1e0f656.webp 400w,
+               /post/post_2/001_hu0552b6ebb326ff0a2aa229c270b9ae15_43024_0a63a05fc7f90a85498cc9692632f03a.webp 760w,
                /post/post_2/001_hu0552b6ebb326ff0a2aa229c270b9ae15_43024_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/post_2/001_hu0552b6ebb326ff0a2aa229c270b9ae15_43024_6118e6696d88e0564a187563f569ccd2.webp&#34;
+               src=&#34;https://example.com/post/post_2/001_hu0552b6ebb326ff0a2aa229c270b9ae15_43024_fb841789b851fc718ee6fba2f1e0f656.webp&#34;
                width=&#34;760&#34;
                height=&#34;652&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -139,10 +155,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Централизованный контроль версий&#34; srcset=&#34;
-               /post/post_2/002_hu86f744ef142c7745ee1e47ad6f3f7496_37918_94013050b9bf56b7767be7662d4b0e7d.webp 400w,
-               /post/post_2/002_hu86f744ef142c7745ee1e47ad6f3f7496_37918_7b49ecda9f4bc13a548631a29244fb9f.webp 760w,
+               /post/post_2/002_hu86f744ef142c7745ee1e47ad6f3f7496_37918_6e3bc6e61f42913f42ad6311ac076f92.webp 400w,
+               /post/post_2/002_hu86f744ef142c7745ee1e47ad6f3f7496_37918_d2bf967ce7afb9ba04257a64a90cc8af.webp 760w,
                /post/post_2/002_hu86f744ef142c7745ee1e47ad6f3f7496_37918_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/post_2/002_hu86f744ef142c7745ee1e47ad6f3f7496_37918_94013050b9bf56b7767be7662d4b0e7d.webp&#34;
+               src=&#34;https://example.com/post/post_2/002_hu86f744ef142c7745ee1e47ad6f3f7496_37918_6e3bc6e61f42913f42ad6311ac076f92.webp&#34;
                width=&#34;760&#34;
                height=&#34;437&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -171,10 +187,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Распределённый контроль версий&#34; srcset=&#34;
-               /post/post_2/003_hu0a6f55c7f7d8f30b59c1352ae4f4dcc9_85595_16649952cd5f813b3f1019e2cdd92d7e.webp 400w,
-               /post/post_2/003_hu0a6f55c7f7d8f30b59c1352ae4f4dcc9_85595_325b6a43c3bc36a45482d58d78da84ee.webp 760w,
+               /post/post_2/003_hu0a6f55c7f7d8f30b59c1352ae4f4dcc9_85595_3ffcdb74c3010d4d265d25bc03202d92.webp 400w,
+               /post/post_2/003_hu0a6f55c7f7d8f30b59c1352ae4f4dcc9_85595_5451d635dae922b44da61536fc6e360c.webp 760w,
                /post/post_2/003_hu0a6f55c7f7d8f30b59c1352ae4f4dcc9_85595_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/post_2/003_hu0a6f55c7f7d8f30b59c1352ae4f4dcc9_85595_16649952cd5f813b3f1019e2cdd92d7e.webp&#34;
+               src=&#34;https://example.com/post/post_2/003_hu0a6f55c7f7d8f30b59c1352ae4f4dcc9_85595_3ffcdb74c3010d4d265d25bc03202d92.webp&#34;
                width=&#34;760&#34;
                height=&#34;501&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -415,7 +431,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-354291867&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-427138596&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -425,7 +441,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-354291867&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-427138596&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
